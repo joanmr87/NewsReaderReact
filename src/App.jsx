@@ -1,15 +1,14 @@
+import "../src/styles/App.css";
+import newsData from "../src/data/newsdata.json";
 
-import '../src/styles/App.css';
-import newsData from '../src/data/newsdata.json';
+import Home from "./pages/Home.jsx";
+
 
 function App() {
   //console.log(newsData.articles)
   const { articles } = newsData;
   return (
-    <div className="App">
-     <h1>InfoNews</h1>
-     
-    </div>
+   <Home news={articles}/>
   );
 }
 
