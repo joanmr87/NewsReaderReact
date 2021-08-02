@@ -4,81 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Punto de Break"
-            },
-            "author": null,
-            "title": "Alexander Zverev gana Novak Djokovic Juegos Olímpicos Tokio 2021 - Punto de Break",
-            "description": "El alemán consiguió eludir una desventaja de 1-6 2-3 con break abajo en el segundo, remontando con contundencia a un Djokovic que terminó apático y sin argumentos.",
-            "url": "http://www.puntodebreak.com/2021/07/30/zverev-logra-imposible-remontando-djokovic-partido-inolvidable",
-            "urlToImage": "http://www.puntodebreak.com/files/novak-djokovic-pierde-zverev-juegos-olimpicos-tokio-2021.png",
-            "publishedAt": "2021-07-30T09:56:38Z",
-            "content": "En el mundo del deporte es un enorme riesgo dar cosas por sentado y desde hace días se percibía el camino de Novak Djokoviccomo una ruta inexorable al oro olímpico. El concepto de Golden Slam se ha r… [+3265 chars]"
-        },
-        {
-            "source": {
-                "id": "la-nacion",
-                "name": "La Nacion"
-            },
-            "author": null,
-            "title": "Coronavirus en Tokio 2020: el nuevo récord de contagios y la polémica que involucra a un nadador estadounidense - LA NACION",
-            "description": "Se sumaron 27 nuevos casos relacionados a los Juegos en las últimas horas, con mayoría de contratistas o personal local; temor en la ciudad por el fuerte aumento de infecciones - LA NACION",
-            "url": "https://www.lanacion.com.ar/deportes/coronavirus-en-tokio-2020-el-nuevo-record-de-contagios-y-la-polemica-que-involucra-a-un-nadador-nid30072021/",
-            "urlToImage": "https://resizer.glanacion.com/resizer/8x84uXiIaMQlg6cc-C0oihE0v0s=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UCCJGBPV5RFN3HJAPKUAZQREQQ.jpg",
-            "publishedAt": "2021-07-30T09:44:00Z",
-            "content": "TOKIO.- Más casos que ayer, pero menos que mañana. De cara a la segunda semana de los Juegos Olímpicos, la capital japonesa enfrenta su peor ola de infectados desde que se inició la pandemia. Con réc… [+5105 chars]"
-        },
-        {
-            "source": {
-                "id": "la-nacion",
-                "name": "La Nacion"
-            },
-            "author": null,
-            "title": "DNI no binario: la embajada de Estados Unidos aclaró que habrá que elegir un género para entrar al país - LA NACION",
-            "description": "Aunque sostuvieron que están trabajando en una actualización de sus políticas con respecto a los marcadores de género en los pasaportes del país - LA NACION",
-            "url": "https://www.lanacion.com.ar/politica/dni-no-binario-la-embajada-de-estados-unidos-aclaro-que-habra-que-elegir-un-genero-para-entrar-al-nid30072021/",
-            "urlToImage": "https://resizer.glanacion.com/resizer/4W7StzQO5HzawZEQkg1CKxT7gKk=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/T3W6Z4PGLZGTDPGAB7RIUKX4CY.JPG",
-            "publishedAt": "2021-07-30T07:27:00Z",
-            "content": "La semana pasada, el presidente Alberto Fernández anunció el lanzamiento del Documento Nacional de Identidad (DNI) para las personas no binarias. Es decir, incorpora la nomenclatura X como opción a l… [+2703 chars]"
-        },
-        {
-            "source": {
                 "id": "infobae",
                 "name": "Infobae"
             },
             "author": "anónimo",
-            "title": "Asoma una nueva estrategia del Banco Central para contener el dólar y resguardar sus reservas - infobae",
-            "description": "La autoridad monetaria recalcula sus pasos. Sus intervenciones en el mercado mayorista serán menos previsibles y tal vez toleren un crecimiento del precio de la divisa",
-            "url": "https://www.infobae.com/economia/2021/07/30/asoma-una-nueva-estrategia-del-banco-central-para-contener-el-dolar-y-resguardar-sus-reservas/",
-            "urlToImage": "https://www.infobae.com/new-resizer/LxUchi57ZU5rIYxXJmBXMsGmu50=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/OMQN74RPUERP5I4QZ5O2B5VD2A.jpg",
-            "publishedAt": "2021-07-30T07:17:49Z",
-            "content": "El mercado estuvo relativamente tranquilo y la mesa de dinero del Banco Central cambió su estrategia, adecuándose a los nuevos tiempos de menores liquidaciones de los exportadores. Disminuyó el volum… [+3923 chars]"
+            "title": "La atleta bielorrusa Krystsina Tsimanouskaya pidió asilo y se refugió en la embajada de Polonia en Tokio - infobae",
+            "description": "La joven de 24 años denunció que las autoridades de su país quisieron sacarla de Japón sin su consentimiento y dijo que tenía miedo de regresar a Minsk tras haber criticado al jefe del Comité Olímpico de Bielorrusia, hijo del dictador Alexandr Lukashenko",
+            "url": "https://www.infobae.com/america/mundo/2021/08/02/la-atleta-bielorrusa-krystsina-tsimanouskaya-pidio-asilo-y-se-refugio-en-la-embajada-de-polonia-en-tokio/",
+            "urlToImage": "https://www.infobae.com/new-resizer/ES6sm0ZCeuho93muYLjeQf4ufO0=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/VE3DU46ARYCD7G65X4DLFZP4SA.jpg",
+            "publishedAt": "2021-08-02T11:05:24Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Clarín"
+                "name": "La Voz del Interior"
             },
-            "author": "Clarín.com",
-            "title": "Murió el actor y director teatral Carlos Bacchi, tenía 52 años - Clarín",
-            "description": "El actor y productor teatral Carlos Bacchi murió este jueves a los 52 años por causas que no fueron precisadas aunque tenía antecedentes cardíacos y había contraído coronavirus.La noticia del fallecimiento de Bacchi, quien era muy reconocido en el ambiente ar…",
-            "url": "https://www.clarin.com/espectaculos/murio-actor-director-teatral-carlos-bacchi-52-anos_0_DW9orDHM4.html",
-            "urlToImage": "https://images.clarin.com/2021/07/30/el-actor-y-productor-teatral___xZf3u-ap0_1200x630__1.jpg",
-            "publishedAt": "2021-07-30T05:01:18Z",
-            "content": "El actor y productor teatral Carlos Bacchi murió este jueves a los 52 años por causas que no fueron precisadas aunque tenía antecedentes cardíacos y había contraído coronavirus.\r\nLa noticia del falle… [+3729 chars]"
+            "author": "Europa Press",
+            "title": "Descubren cómo se alimenta un agujero negro - La Voz del Interior",
+            "description": "Los telescopios combinados muestran una instantánea en la que se observa cómo se separan los filamentos de polvo para dirigirse directamente al centro de la galaxia.",
+            "url": "https://www.lavoz.com.ar/ciudadanos/ciencia/descubren-como-se-alimenta-un-agujero-negro/",
+            "urlToImage": "https://images.lavoz.com.ar/resizer/VvjBTj8cT-wILdjqIMN6n52jdFQ=/1200x630/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/VYVNC4IT3ZGBFKZLGOQRNFWD5Y.jpg",
+            "publishedAt": "2021-08-02T10:35:38Z",
+            "content": "Astrónomos han podido obtener una visualización directa del proceso de alimentación nuclear de un agujero negro en la galaxia NGC 1566 a través de la detección de una nueva clase de filamentos.\r\nUn t… [+1695 chars]"
         },
         {
             "source": {
-                "id": "la-nacion",
-                "name": "La Nacion"
+                "id": null,
+                "name": "La Voz del Interior"
             },
-            "author": null,
-            "title": "Covid-19. Avanzan las investigaciones para determinar si será necesaria una tercera dosis y quiénes deberán recibirla - LA NACION",
-            "description": "Si bien hay estudios en marcha, no existe una respuesta definitiva aún; estiman que los pacientes con compromiso del sistema inmunológico requerirán un refuerzo - LA NACION",
-            "url": "https://www.lanacion.com.ar/sociedad/covid-19-avanzan-las-investigaciones-para-determinar-si-sera-necesaria-una-tercera-dosis-y-quienes-nid29072021/",
-            "urlToImage": "https://resizer.glanacion.com/resizer/AcWtCD8EisD8KHnOx_Kets5GkSA=/1920x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/A4QBPEYXXJEZVHC4GRIT7MRAHQ.gif",
-            "publishedAt": "2021-07-30T04:08:00Z",
-            "content": "30 de julio de 202103:42¿Las vacunas contra el Covid-19 resultaron tan efectivas que no se necesitarán refuerzos una vez completados los esquemas? ¿O, como sostienen los laboratorios, serán necesaria… [+8624 chars]"
+            "author": "Redacción MundoD",
+            "title": "Día 11 en Tokio 2020: Argentina va por medallas en vela y juegan el vóley y el básquet - La Voz del Interior",
+            "description": "La programación para seguir a los deportistas argentinos entre la noche del lunes y la madrugada del martes en los Juegos Olímpicos.",
+            "url": "https://www.lavoz.com.ar/deportes/y-mas/dia-11-en-tokio-2020-argentina-va-por-medallas-en-vela-y-juegan-el-voley-y-el-basquet/",
+            "urlToImage": "https://images.lavoz.com.ar/resizer/6cjU9PBpfr6pZlqsA-Kqi7TTonw=/1200x630/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/GGWRFYANOZHGLNM5HREEZVIT4E.jpeg",
+            "publishedAt": "2021-08-02T10:30:00Z",
+            "content": "Este es el programa de competencia de los atletas argentinos en la undécima jornada de los Juegos Olímpicos Tokio 2020. Para seguir y alentar a los representantes albicelestes que están en instancias… [+655 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minutouno.com"
+            },
+            "author": "MinutoUno",
+            "title": "Qué se puede comprar con Ahora 30 - Minutouno.com",
+            "description": "El programa Ahora 12 creado en septiembre de 2014 seguirá vigente al menos hasta el próximo 31 de enero.",
+            "url": "https://www.minutouno.com/economia/ahora-30/que-se-puede-comprar-n5239332",
+            "urlToImage": "https://media.minutouno.com/p/8dd054fed9ebc7589c637f305adafbde/adjuntos/150/imagenes/038/079/0038079695/1200x675/smart/ahora-12.jpg",
+            "publishedAt": "2021-08-02T10:25:00Z",
+            "content": "Con la incorporación del nuevo plazo de hasta 30 cuotas según lo dispuesto por esta Resolución se podrán comprar distintos artículos de la denominada Línea Blanca:\r\n<ul><li>Aires acondicionados</li><… [+1517 chars]"
         },
         {
             "source": {
@@ -86,116 +60,12 @@
                 "name": "Olé"
             },
             "author": "Olé",
-            "title": "Terrible caída y preocupación en BMX: un competidor se fue en ambulancia - Olé",
-            "description": "Las carreras de BMX son vertiginosas y espectaculares por su velocidad, curvas, subidas, bajadas y, también, por el peligro que todo este representa. En medio de la euforia por la semifinal de esta disciplina en los Juegos Olímpicos de Tokio 2020, Connor Fiel…",
-            "url": "https://www.ole.com.ar/juegos-olimpicos/terrible-caida-connor-fields-hospital_0_lxgaEnTH1.html",
-            "urlToImage": "https://images.ole.com.ar/2021/07/30/HFT0kLZqz_1200x630__1.jpg",
-            "publishedAt": "2021-07-30T03:43:09Z",
-            "content": "Las carreras de BMX son vertiginosas y espectaculares por su velocidad, curvas, subidas, bajadas y, también, por el peligro que todo este representa. En medio de la euforia por la semifinal de esta d… [+2414 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ámbito.com"
-            },
-            "author": "Walter Graziano",
-            "title": "Sorpresas en la decisión de la Reserva Federal - ámbito.com",
-            "description": "El comunicado de la FED tiene varios puntos muy llamativos que no podían ser anticipados y que -junto con recientes declaraciones de Powell- dan la pista de qué es lo que está en gestación acerca de la política monetaria para el futuro. Veamos.",
-            "url": "https://www.ambito.com/economia/eeuu/sorpresas-la-decision-la-reserva-federal-n5236972",
-            "urlToImage": "https://media.ambito.com/p/aab5d131282b632436923f57f0a759af/adjuntos/239/imagenes/037/452/0037452679/1200x675/smart/jerome-powell-presidente-la-reserva-federal-estados-unidos.jpg",
-            "publishedAt": "2021-07-30T03:00:00Z",
-            "content": "La verdad es que lejos de recortar la ayuda monetaria al sistema financiero a través de la compra de bonos con emisión monetaria, la Reserva Federal acaba de crear dos líneas de crédito adicionales p… [+6261 chars]"
-        },
-        {
-            "source": {
-                "id": "la-nacion",
-                "name": "La Nacion"
-            },
-            "author": null,
-            "title": "Tokio 2020: la actividad olímpica y la actuación de los atletas argentinos, minuto a minuto - LA NACION",
-            "description": "En una nueva jornada de los Juegos Olímpicos, el handball empieza la actividad con un duelo crucial para sus aspiraciones - LA NACION",
-            "url": "https://www.lanacion.com.ar/deportes/tokio-2020-la-actividad-olimpica-y-la-actuacion-de-los-atletas-argentinos-minuto-a-minuto-nid29072021/",
-            "urlToImage": "https://resizer.glanacion.com/resizer/1c-0n-b-DbKnQDDR69TFx2hVfJY=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/STCB5AB7FFDTDDTROMIZW7NEFM.jpg",
-            "publishedAt": "2021-07-30T01:51:00Z",
-            "content": "Tras la derrota frente a Brasil, Sebastián Simonet expresó: Se acabaron las chances matemáticas. Sabíamos que era muy difícil, el partido no se nos dio desde el principio, tomamos malas decisiones y … [+4072 chars]"
-        },
-        {
-            "source": {
-                "id": "la-nacion",
-                "name": "La Nacion"
-            },
-            "author": null,
-            "title": "Coronavirus: un estudio no invasivo de la córnea podría determinar el pronóstico en pacientes con Covid-19 prolongado - LA NACION",
-            "description": "La microscopía confocal permitió identificar una disminución de las fibras nerviosas y un aumento de la concentración de células inmunológicas esenciales, en especial en casos con secuelas neurológicas  - LA NACION",
-            "url": "https://www.lanacion.com.ar/sociedad/coronavirus-un-estudio-no-invasivo-de-la-cornea-podria-determinar-el-pronostico-en-pacientes-con-nid29072021/",
-            "urlToImage": "https://resizer.glanacion.com/resizer/_kHVt0nlO1tpGPpUwVAa4Yg4hfI=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/RTYG3MBYGNF6LDBBMIXCSRCOS4.jpg",
-            "publishedAt": "2021-07-30T00:50:00Z",
-            "content": "Un estudio parecería haber dado con un nuevo signo de lo que se conoce como Covid-19 prolongado: está en los ojos y serviría como un indicador pronóstico de recuperación, según anticipan los resultad… [+4845 chars]"
-        },
-        {
-            "source": {
-                "id": "infobae",
-                "name": "Infobae"
-            },
-            "author": "anónimo",
-            "title": "Jorge Rial anunció su desvinculación de América TV: “Hoy firmé mi rescisión” - infobae",
-            "description": "En más de 20 años de relación, el periodista creó Intrusos, condujo dos versiones de Gran Hermano y encabezó ciclos como Paf! y TV Nostra",
-            "url": "https://www.infobae.com/teleshow/2021/07/30/jorge-rial-anuncio-su-desvinculacion-de-america-tv-hoy-firme-mi-rescision/",
-            "urlToImage": "https://www.infobae.com/new-resizer/NELpFqXFtkXp1slbZgjOtySX7Yg=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/IIP5OXYLZVHMRBOQBCRUQKMBNE.jpg",
-            "publishedAt": "2021-07-30T00:45:00Z",
-            "content": "Este jueves, Jorge Rial anunció en redes sociales su desvinculación con el Canal América. En más de 20 años de relación, el periodista creó Intrusos, condujo dos versiones de Gran Hermano y encabezó … [+2896 chars]"
-        },
-        {
-            "source": {
-                "id": "la-nacion",
-                "name": "La Nacion"
-            },
-            "author": null,
-            "title": "En un flash: de la primera salida de Ewan McGregor con su bebé al abrazo de Adele con su novio - LA NACION",
-            "description": "En los últimos días las cámaras registraron los paseos de Katie Holmes con su hija Suri Cruise, el peculiar collar de Jennifer Lopez en homenaje a Ben Affleck y muchas situaciones más que tienen a los famosos como protagonistas - LA NACION",
-            "url": "https://www.lanacion.com.ar/espectaculos/personajes/en-un-flash-de-la-primera-salida-de-ewan-mcgregor-con-su-bebe-al-abrazo-de-adele-con-su-novio-nid29072021/",
-            "urlToImage": "https://resizer.glanacion.com/resizer/H5PqhUT1LyNV7y4AFeGpeLK-ing=/1920x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HA3AQQSTDNCXHAFAUNDJDRFZTA.JPG",
-            "publishedAt": "2021-07-29T22:36:00Z",
-            "content": "29 de julio de 202119:36Las celebridades no pudieron pasar inadvertidas en los diversos escenarios en los cuales fueron captadas por los flashes. Entre ellas, la pareja conformada por Ewan McGregor y… [+1136 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Clarín"
-            },
-            "author": "Guido Carelli Lynch",
-            "title": "Cuatro nombres, sin certezas y \"operaciones\" en marcha para suceder a Agustín Rossi en el Ministerio de - Clarín",
-            "description": "Nadie en el Gobierno sabe quién reemplazará al ministro de Defensa Agustín Rossi, que deberá renunciar a su cargo luego de que el Presidente anunciara sorpresivamente por televisión desde Perú que se había autoimpuesto la regla de que los funcionarios que sea…",
-            "url": "https://www.clarin.com/politica/nombres-certezas-operaciones-marcha-suceder-agustin-rossi-ministerio-defensa_0_QwhNssRZF.html",
-            "urlToImage": "https://images.clarin.com/2021/06/14/el-ministro-de-defensa-agustin___16OkyFeW0_1200x630__1.jpg",
-            "publishedAt": "2021-07-29T22:31:30Z",
-            "content": "Nadie en el Gobierno sabe quién reemplazará al ministro de Defensa Agustín Rossi, que deberá renunciar a su cargo luego de que el Presidente anunciara sorpresivamente por televisión desde Perú que se… [+5512 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Coronavirus: volvió a Córdoba, no respetó el aislamiento y contagió a 13 familiares con la variante Delta - Página 12",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zNTgxODItY29yb25hdmlydXMtdm9sdmlvLWEtY29yZG9iYS1uby1yZXNwZXRvLWVsLWFpc2xhbWllbnRvLXktY29u0gFfaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzM1ODE4Mi1jb3JvbmF2aXJ1cy12b2x2aW8tYS1jb3Jkb2JhLW5vLXJlc3BldG8tZWwtYWlzbGFtaWVudG8teS1jb24?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-29T22:20:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TyC Sports"
-            },
-            "author": "TyC Sports.com",
-            "title": "La opinión de Maxi Velázquez sobre el alcanzapelotas que se sacó la foto con Marcelo Gallardo - TyC Sports",
-            "description": "El ídolo de Lanús defendió al chico que posó con el Muñeco tras la derrota ante River por la tercera fecha de la Liga Profesional.",
-            "url": "https://www.tycsports.com/river-plate/maxi-velazquez-liga-profesional-lanus-marcelo-gallardo-river--id360567.html",
-            "urlToImage": "https://media.tycsports.com/files/2021/07/29/313291/lanus_1440x810_wmk.png",
-            "publishedAt": "2021-07-29T22:09:18Z",
-            "content": "El ídolo de Lanús defendió al chico que posó con el Muñeco tras la derrota ante River por la tercera fecha de la Liga Profesional.\r\nMaximiliano Velázquez, histórico jugador de Lanús, defendió al alca… [+1193 chars]"
+            "title": "Las Leonas ya tienen rival para la semi: ¿cuándo se juega? - Olé",
+            "description": "Después de la contundente victoria 3-0 de las Leonas frente a Alemania, nadie se despegó de la tele en Argentina porque si bien la Selección femenina de hockey ya tenía asegurado su lugar para las semifinales de los Juegos Olímpicos de Tokio 2020, todavía fal…",
+            "url": "https://www.ole.com.ar/juegos-olimpicos/leonas-rival-semifinales-india_0_P1RpN-znZ.html",
+            "urlToImage": "https://images.ole.com.ar/2021/08/02/KzsbY-4Fq_1200x630__1.jpg",
+            "publishedAt": "2021-08-02T10:22:08Z",
+            "content": "Después de la contundente victoria 3-0 de las Leonas frente a Alemania, nadie se despegó de la tele en Argentina porque si bien la Selección femenina de hockey ya tenía asegurado su lugar para las se… [+3535 chars]"
         },
         {
             "source": {
@@ -203,12 +73,25 @@
                 "name": "ámbito.com"
             },
             "author": "ámbito.com",
-            "title": "Expertos de la OMS invitan a Argentina a presentar estudio de efectividad de la vacuna de Sinopharm - ámbito.com",
-            "description": "El encuentro tuvo como objeto evaluar la efectividad de las vacunas con virus inactivado de Sinovac y Sinopharm a partir de la aplicación de dos dosis y el impacto a lo largo del tiempo. Y su efectividad frente a variantes y en la reducción de internaciones.",
-            "url": "https://www.ambito.com/informacion-general/covid-19/expertos-la-oms-invitan-argentina-presentar-estudio-efectividad-la-vacuna-sinopharm-n5236719",
-            "urlToImage": "https://media.ambito.com/p/93d6d4a2542fdb187e127ddc20717e0f/adjuntos/239/imagenes/039/039/0039039614/1200x675/smart/vacuna-sinopharm.jpg",
-            "publishedAt": "2021-07-29T21:47:13Z",
-            "content": "La presentación argentina, realizada por la ministra Carla Vizzotti, se realizó en base al estudio de efectividad de las vacunas que se aplican en el país que llevó adelante el Ministerio de Salud.\r\n… [+755 chars]"
+            "title": "Oficializan la extensión de Ahora 12: se suman productos y líneas de financiamiento de hasta 30 cuotas - ámbito.com",
+            "description": "La medida se publicó este lunes en el Boletín Oficial mediante la Resolución 753/2021 aunque la presentación se hará cerca del mediodía en un acto encabezado por el presidente Alberto Fernández.",
+            "url": "https://www.ambito.com/economia/ahora-12/oficializan-la-extension-se-suman-productos-y-lineas-financiamiento-30-cuotas-n5239322",
+            "urlToImage": "https://media.ambito.com/p/bcc9bc3562509b60b8f6c2f9995d1beb/adjuntos/239/imagenes/038/402/0038402002/1200x675/smart/la-secretaria-comercio-interior-oficializo-este-lunes-la-extension-y-ampliacion-del-programa-ahora-12.jpeg",
+            "publishedAt": "2021-08-02T10:15:00Z",
+            "content": "Asimismo, se confirmó que a partir de agosto sumarán la categoría bicicletas a los programas de 3 y 6 cuotas, al tiempo que vuelven las 12 cuotas para indumentaria y calzado. Sin embargo, la máxima n… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MDZ Online"
+            },
+            "author": "Inversor Global",
+            "title": "Dólar blue: empieza el mes con una nueva suba - MDZ Online",
+            "description": "El dólar blue arranca el primer día hábil de agosto con una punta vendedora levemente superior.",
+            "url": "https://www.mdzol.com/dinero/2021/8/2/dolar-blue-empieza-el-mes-con-una-nueva-suba-176690.html",
+            "urlToImage": "https://www.mdzol.com/u/fotografias/m/2021/8/1/f1280x720-1089424_1221099_5050.jpg",
+            "publishedAt": "2021-08-02T10:03:25Z",
+            "content": "En primer lugar, el dólar divisa, el tipo de cambio que se comercializa en el mercado internacional de divisas, arranca el mes rondando los $96,68, según se informa en las principales plataformas de … [+1594 chars]"
         },
         {
             "source": {
@@ -216,12 +99,103 @@
                 "name": "Infobae"
             },
             "author": "anónimo",
-            "title": "Cómo fue el encuentro entre Luis Chocobar y el policía que le disparó a Chano Charpentier - infobae",
-            "description": "El oficial condenado a dos años de prisión por matar a un ladrón creó una fundación que le brindará asesoramiento legal a Facundo Amendolara, imputado por dispararle al músico",
-            "url": "https://www.infobae.com/sociedad/policiales/2021/07/29/como-fue-el-encuentro-entre-luis-chocobar-y-el-policia-que-le-disparo-a-chano-charpentier/",
-            "urlToImage": "https://www.infobae.com/new-resizer/ojkZEnpjJZjUD6c7g8RQrQQgi_8=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/RLJP4GDC4VHK3JQM442H3YOP6I.jpg",
-            "publishedAt": "2021-07-29T21:21:17Z",
-            "content": "Facundo Amendolara, el policía que fue imputado de hecho por dispararle a Santiago Chano Moreno Charpentier en el abdomen, tuvo un encuentro este jueves por la tarde con Luis Oscar Chocobar\r\n. El ofi… [+4511 chars]"
+            "title": "Choque múltiple y fatal en Flores: murió una mujer y uno de los vehículos se prendió fuego - infobae",
+            "description": "Ocurrió en la intersección de las avenidas Alberdi y San Pedrito, donde en la madrugada de hoy hay un corte total en el tránsito. Dos autos que estaban estacionados también sufrieron el impacto",
+            "url": "https://www.infobae.com/sociedad/2021/08/02/choque-multiple-fatal-en-flores-murio-una-mujer-y-uno-de-los-vehiculos-se-prendio-fuego/",
+            "urlToImage": "https://www.infobae.com/new-resizer/bleE7fx0u_kEQEoEW1uQiTicmDc=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/4JP4463IMNGT7CN5KBHF6IXFFM.jfif",
+            "publishedAt": "2021-08-02T09:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cadena 3"
+            },
+            "author": "Cadena 3 Argentina",
+            "title": "Delta en Córdoba: el caso cero, internado con neumonía - Cadena 3",
+            "description": "Tiene neumonía bilateral. Está en el Rawson con asistencia respiratoria mecánica. También hospitalizaron a una familiar suya. El hombre de 62 años, llegó desde Perú y no cumplió con el aislamiento.",
+            "url": "https://www.cadena3.com/noticia/sociedad/delta-en-cordoba-el-caso-cero-internado-con-neumonia_300144",
+            "urlToImage": "https://www.cadena3.com/admin/playerswf/fotos/ARCHI_REL_862097.jpg",
+            "publishedAt": "2021-08-02T09:26:42Z",
+            "content": "El \"caso cero\" de la variante Delta de coronavirus en Córdoba está internado desde el sábado por un cuadro de neumonía bilateral en el Hospital Rawson con custodia policial. En las últimas horas fue … [+1090 chars]"
+        },
+        {
+            "source": {
+                "id": "la-nacion",
+                "name": "La Nacion"
+            },
+            "author": null,
+            "title": "El gobernador kirchnerista que aspira a quedarse con todos los cargos en juego en noviembre - LA NACION",
+            "description": "El mismo día en que buscará su cuarto mandato, Gerardo Zamora intentará adueñarse también de las tres bancas de diputados nacionales de Santiago del Estero - LA NACION",
+            "url": "https://www.lanacion.com.ar/politica/el-gobernador-kirchnerista-que-aspira-a-quedarse-con-todos-los-cargos-en-juego-en-noviembre-nid02082021/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/SKMi_RKJNQWZr7n-vMa0ebH6464=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/PBYDZFU3CVH5VOLBGLSPLX4DRE.jpg",
+            "publishedAt": "2021-08-02T09:00:00Z",
+            "content": "Santiago del Estero.- Los santiagueños ya saben que tienen diez opciones para las PASO de septiembre, que determinarán los candidatos finales para renovar las 3 bancas de diputados nacionales en jueg… [+3185 chars]"
+        },
+        {
+            "source": {
+                "id": "infobae",
+                "name": "Infobae"
+            },
+            "author": "anónimo",
+            "title": "Insólito: un ataúd se cayó del auto fúnebre y quedó abierto en plena calle de Neuquén - infobae",
+            "description": "La cooperativa que estuvo a cargo del traslado lamentó lo sucedido y explicó que el accidente ocurrió por el mal estado de la calzada",
+            "url": "https://www.infobae.com/sociedad/2021/08/02/insolito-un-ataud-se-cayo-del-auto-funebre-y-quedo-abierto-en-plena-calle-de-neuquen/",
+            "urlToImage": "https://www.infobae.com/new-resizer/4qyCEEM37gEirTd0nd3tbVgBSsI=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/65SH5DQODBDD3NNCPAR46MRVPY.jpg",
+            "publishedAt": "2021-08-02T07:11:17Z",
+            "content": "En la provincia de Neuquén, decenas de conductores fueron testigos de un hecho insólito cuando se encontraron en mitad de la ruta 22, en la localidad de Senillosa, con un cadáver tirado sobre el asfa… [+3301 chars]"
+        },
+        {
+            "source": {
+                "id": "infobae",
+                "name": "Infobae"
+            },
+            "author": "anónimo",
+            "title": "El tapabocas y la distancia social, dos poderosas herramientas que ayudan a evitar mutaciones del SARS-CoV-2, según nuevo estudio - infobae",
+            "description": "Científicos de Austria y Suiza concluyeron que las medidas “no farmacéuticas”, junto con la vacunación, evitan la generación de variantes resistentes como la Delta. Abandonar prematuramente esas precauciones hace que la probabilidad de aparición de una cepa a…",
+            "url": "https://www.infobae.com/america/ciencia-america/2021/08/02/el-tapabocas-y-la-distancia-social-dos-poderosas-herramientas-que-ayudan-a-evitar-mutaciones-del-sars-cov-2-segun-nuevo-estudio/",
+            "urlToImage": "https://www.infobae.com/new-resizer/GIbHtTZP91SUaifhk13ZOio3_Cg=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/MPGB5J5WF2QIQ2BYNQT3NGZIP4.jpg",
+            "publishedAt": "2021-08-02T05:01:46Z",
+            "content": "El avance de los contagios de COVID-19 en el mundo crea un caldo de cultivo para que se produzcan nuevas mutaciones del virus SARS-CoV-2, han advertido los científicos. También han coincidido en que … [+10077 chars]"
+        },
+        {
+            "source": {
+                "id": "infobae",
+                "name": "Infobae"
+            },
+            "author": "anónimo",
+            "title": "Ghost of Tsushima, 12 Minutes y Psychonauts 2: conocé los videojuegos más esperados de agosto - infobae",
+            "description": "Agosto trae consigo el regreso de una franquicia mítica, la remasterización de un clásico contemporáneo y un juego independiente muy esperado, entre muchas propuestas más",
+            "url": "https://www.infobae.com/gaming/2021/08/02/ghost-of-tsushima-12-minutes-y-psychonauts-2-conoce-los-videojuegos-mas-esperados-de-agosto/",
+            "urlToImage": "https://www.infobae.com/new-resizer/XNGosvBovyI37ClcyjG-oIRDNBc=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/PGWSJA3T55D75O3RJZPC3JIV54.jpg",
+            "publishedAt": "2021-08-02T03:05:45Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ámbito.com"
+            },
+            "author": "Jorge Herrera",
+            "title": "Empezó el \"segundo semestre\": lluvia de pesos y sequía de dólares - ámbito.com",
+            "description": "Sin duda, comenzó un desafiante y estresante período de cara a las PASO y las legislativas. Ya comenzaron a verse algunas señales de lo que se venía descontando. ¿Cómo será la segunda parte del año?",
+            "url": "https://www.ambito.com/economia/pesos/empezo-el-segundo-semestre-lluvia-y-sequia-dolares-n5239220",
+            "urlToImage": "https://media.ambito.com/p/02c11ad4e78ff8f26ad178f731e4526c/adjuntos/239/imagenes/038/987/0038987364/1200x675/smart/pesos-inversiones-monedas-inflacion-billetes-bolsillo-14-06-2021.jpg",
+            "publishedAt": "2021-08-02T03:00:00Z",
+            "content": "Los números fiscales del último bimestre muestran que el déficit se mantuvo elevado, lo que se refleja precisamente en la sumatoria de transferencias del BCRA al Tesoro y en el financiamiento neto qu… [+4825 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clarín"
+            },
+            "author": "Clarín.com",
+            "title": "Maru Botana, varada en un castillo en Francia: \"Es triste no poder volver a tu país\" - Clarín",
+            "description": "Desde Francia, la reconocida chef Maru Botana (51) contó que junto a su familia son de los tantos argentinos varados por el cepo a los pasajeros como medida para retrasar la llegada de la variante Delta de coronavirus.Pero por lo que detalló se entiende que m…",
+            "url": "https://www.clarin.com/fama/maru-botana-varada-castillo-francia-triste-poder-volver-pais-_0_2fWKMRTVv.html",
+            "urlToImage": "https://images.clarin.com/2020/07/07/maru-botana-famosa-por-cocinar___nmYZX-xLR_1200x630__1.jpg",
+            "publishedAt": "2021-08-02T02:36:42Z",
+            "content": "Desde Francia, la reconocida chef Maru Botana (51) contó que junto a su familia son de los tantos argentinos varados por el cepo a los pasajeros como medida para retrasar la llegada de la variante De… [+4183 chars]"
         },
         {
             "source": {
@@ -229,38 +203,64 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Nieva en el sur de Brasil. Una ola de frío cubre de blanco Río Grande del Sur - euronews (en español)",
+            "title": "Patricia Bullrich quiere apagar el fuego en Juntos, pero Facundo Manes echa más leña - Página 12",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VUJEQThIa3FpU1nSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zNTg3NzQtcGF0cmljaWEtYnVsbHJpY2gtcXVpZXJlLWFwYWdhci1lbC1mdWVnby1lbi1qdW50b3MtcGVyby1mYWN10gFfaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzM1ODc3NC1wYXRyaWNpYS1idWxscmljaC1xdWllcmUtYXBhZ2FyLWVsLWZ1ZWdvLWVuLWp1bnRvcy1wZXJvLWZhY3U?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-07-29T21:16:20Z",
+            "publishedAt": "2021-08-02T02:02:17Z",
             "content": null
         },
         {
             "source": {
-                "id": "infobae",
-                "name": "Infobae"
+                "id": "la-nacion",
+                "name": "La Nacion"
             },
-            "author": "anónimo",
-            "title": "Morales amenazó con romper Juntos por el Cambio: “Hay una campaña de desprestigio contra Manes y el responsable es Larreta” - infobae",
-            "description": "El gobernador de Jujuy lanzó duras críticas contra el jefe de Gobierno porteño: \"Cuando se profundiza este camino, lo que hace es llevar a la ruptura, esperemos que esto no se dé\", sostuvo",
-            "url": "https://www.infobae.com/politica/2021/07/29/morales-amenazo-con-romper-juntos-por-el-cambio-hay-una-campana-de-desprestigio-contra-manes-y-el-responsable-es-larreta/",
-            "urlToImage": "https://www.infobae.com/new-resizer/xypTg8J5XYWQaVHZbbp15NR7WXM=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/C4NLWTT7DZGURKPNZZUOGDHOC4.jpg",
-            "publishedAt": "2021-07-29T21:13:55Z",
-            "content": ""
+            "author": null,
+            "title": "Jorge Lanata denunció “el negocio multimillonario de las fotomulas” que involucra funcionarios públicos - LA NACION",
+            "description": "Según una investigación del periodista, la Cámara de Empresas de Control y Administraciones de Infracciones de Tránsito reparte ganancias y tiene miembros que también trabajan en el Estado - LA NACION",
+            "url": "https://www.lanacion.com.ar/politica/jorge-lanata-denuncio-el-negocio-multimillonario-de-las-fotomulas-que-involucra-funcionarios-nid01082021/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/6v4SdTpimWJZZHzU2EuYASag8wk=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/KPJEQW44SRCGXA4OER4MKZRTP4.jpg",
+            "publishedAt": "2021-08-02T01:55:00Z",
+            "content": "La Cámara de Empresas de Control y Administraciones de Infracciones de Tránsito (Cecaitra) es la institución que agrupa a las empresas de control de tránsito, que proveen al Estado las cámaras, los r… [+2627 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "El Cronista Comercial"
+                "name": "Los Andes (Mendoza)"
             },
-            "author": "Mariano Gorodisch",
-            "title": "Cómo aprovechar el nuevo cupo de dólar Bolsa a \"precios cuidados\" - El Cronista",
-            "description": "Cuánto es el máximo cupo semanal que la CNV permite comprar de dólares subsidiados para mandarlos al exterior y cómo hacer para sacarle el máximo jugo posible.",
-            "url": "https://www.cronista.com/finanzas-mercados/como-aprovechar-el-cupo-de-dolar-bolsa-de-precios-cuidados/",
-            "urlToImage": "https://www.cronista.com/files/image/332/332453/60a7c7231d1fd_600_315!.jpg?s=438359a41395e5eb17065e2fa827ecb3&d=1621981355",
-            "publishedAt": "2021-07-29T20:23:21Z",
-            "content": "Hay dos formas de comprar dlares legales a travs de la Bolsa para mandarlos al exterior. Se puede hacerlo a $ 167, en su versin \"precios cuidados\" pero con un lmite semanal. O tambin se puede \r\na $ 1… [+2844 chars]"
+            "author": "Redacción LA",
+            "title": "Santiago Borda, participante de “La Voz Argentina”, fue internado de urgencia y habría sufrido violencia doméstica - Los Andes (Mendoza)",
+            "description": "El joven de 19 años forma parte del team Lali tuvo que ser atendido en un hospital de Concordia, Entre Ríos y tendría politraumatismos y sus manos cortadas.",
+            "url": "https://www.losandes.com.ar/da-la-nota/santiago-borda-participante-de-la-voz-argentina-fue-internado-de-urgencia-y-habria-sufrido-violencia-domestica/",
+            "urlToImage": "https://images.losandes.com.ar/resizer/wnTL6XyEiVhcmhzSSx_Ckd5-bOY=/1200x630/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/VQIWVJVIJ5BS3MDFVV764WZGY4.jpg",
+            "publishedAt": "2021-08-02T01:22:39Z",
+            "content": "Luego de haber ganado la primera noche de batallas interpretando el tema Ego de Lali Espósito, Santiago Borda, uno de los favoritos de La Voz Argentina, debió ser atendido en un hospital de su ciudad… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clarín"
+            },
+            "author": "Clarín.com",
+            "title": "Mientras Matías Morla estaba en televisión, los hijos de Diego Maradona compartieron un lapidario mensaje - Clarín",
+            "description": "En el mismo momento que Luis Novaresio comenzó su programa, Debo Decir (América, domingos a las 21) con la presencia de Matías Morla, los herederos de Diego Armando Maradona (1960-2020) se pusieron de acuerdo y compartieron un lapidario mensaje en contra del …",
+            "url": "https://www.clarin.com/fama/matias-morla-television-hijos-diego-maradona-compartieron-lapidario-mensaje_0_6q9wNcTDz.html",
+            "urlToImage": "https://images.clarin.com/2021/08/01/matias-morla-en-debo-decir___Mzv7uH9MG_1200x630__1.jpg",
+            "publishedAt": "2021-08-02T00:53:06Z",
+            "content": "En el mismo momento que Luis Novaresio comenzó su programa, Debo Decir (América, domingos a las 21) con la presencia de Matías Morla, los herederos de Diego Armando Maradona (1960-2020) se pusieron d… [+3017 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Vuelta a clases presenciales con polémica: CABA y Mendoza no respetarán el distanciamiento - Página 12",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zNTg3OTItdnVlbHRhLWEtY2xhc2VzLXByZXNlbmNpYWxlcy1jb24tcG9sZW1pY2EtY2FiYS15LW1lbmRvemEtbm8t0gFfaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzM1ODc5Mi12dWVsdGEtYS1jbGFzZXMtcHJlc2VuY2lhbGVzLWNvbi1wb2xlbWljYS1jYWJhLXktbWVuZG96YS1uby0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-02T00:21:22Z",
+            "content": null
         }
     ]
 }

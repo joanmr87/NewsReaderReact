@@ -10,53 +10,54 @@ import Carousel from "./components/Carousel";
 import CarouselItem from "./components/CarouselItem";
 
 function App() {
-  //console.log(newsData.articles)
+  
   const { articles } = newsData;
+  //console.log(articles);
   return (
     <>
       <Header />
       <Search />
       <Categories title="Ultimas Noticias">
-        <Carousel>
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
+        <Carousel >
+          <CarouselItem news={articles[0]}/>
+          <CarouselItem news={articles[1]}/>
+          <CarouselItem news={articles[2]}/>
+          <CarouselItem news={articles[3]}/>
+          <CarouselItem news={articles[4]}/>
+          <CarouselItem news={articles[5]}/>
+          <CarouselItem news={articles[6]}/>
+          <CarouselItem news={articles[7]}/>
+          <CarouselItem news={articles[8]}/>
         </Carousel>
       </Categories>
       <Categories title="Economia">
         <Carousel>
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
+          <CarouselItem news={articles[9]}/>
+          <CarouselItem news={articles[10]}/>
+          <CarouselItem news={articles[11]}/>
+          <CarouselItem news={articles[12]}/>
+          <CarouselItem news={articles[13]}/>
+          <CarouselItem news={articles[14]}/>
+          <CarouselItem news={articles[15]}/>
+          <CarouselItem news={articles[16]}/>
+          <CarouselItem news={articles[17]}/>
         </Carousel>
       </Categories>
       <Categories title="Politica">
         <Carousel>
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
+          <CarouselItem news={articles[18]}/>
+          <CarouselItem news={articles[8]}/>
+          <CarouselItem news={articles[9]}/>
+          <CarouselItem news={articles[4]}/>
+          <CarouselItem news={articles[5]}/>
+          <CarouselItem news={articles[6]}/>
+          <CarouselItem news={articles[7]}/>
+          <CarouselItem news={articles[8]}/>
+          <CarouselItem news={articles[9  ]}/> 
         </Carousel>
       </Categories>
-      <Categories title="Deportes">
-        <Carousel>
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-          <CarouselItem />
-        </Carousel>
-      </Categories>
-      <Home news={articles} />
+  
+      
       <Footer />
     </>
   );
