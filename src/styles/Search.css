@@ -1,4 +1,5 @@
 .main {
+    background-color: #8f57fd;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -8,6 +9,6 @@
   }
   
   .main__title {
-    color: rgb(121, 44, 44);
+    color: white;
     font-size: 25px;
   }

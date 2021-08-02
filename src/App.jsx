@@ -9,56 +9,56 @@ import Categories from "./components/Categories.jsx";
 import Carousel from "./components/Carousel";
 import CarouselItem from "./components/CarouselItem";
 
-
 function App() {
   //console.log(newsData.articles)
   const { articles } = newsData;
   return (
     <>
-    <Header/>
-      <Search/>
-      <Categories title= "Ultimas Noticias">
+      <Header />
+      <Search />
+      <Categories title="Ultimas Noticias">
         <Carousel>
-          <CarouselItem/>
-          <CarouselItem/>
-          <CarouselItem/>
-          <CarouselItem/>
-          <CarouselItem/>
-          <CarouselItem/>
-          <CarouselItem/>
-          <CarouselItem/>
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
         </Carousel>
       </Categories>
-      <Categories title= "Economia">
-            <Carousel>
-                    <CarouselItem/>
-                    <CarouselItem/>
-                    <CarouselItem/>
-                    <CarouselItem/>              
-                   
-            </Carousel>    
-        </Categories>
-      <Categories title= "Politica">
-            <Carousel>
-                    <CarouselItem/>
-                    <CarouselItem/>
-                    <CarouselItem/>
-                    <CarouselItem/>              
-                   
-            </Carousel>    
+      <Categories title="Economia">
+        <Carousel>
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+        </Carousel>
       </Categories>
-      <Categories title= "Deportes">
-            <Carousel>
-                    <CarouselItem/>
-                    <CarouselItem/>
-                    <CarouselItem/>
-                    <CarouselItem/>              
-                   
-            </Carousel>    
-        </Categories>
-      <Home news={articles}/>
-    <Footer/>
-   </>
+      <Categories title="Politica">
+        <Carousel>
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+        </Carousel>
+      </Categories>
+      <Categories title="Deportes">
+        <Carousel>
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+          <CarouselItem />
+        </Carousel>
+      </Categories>
+      <Home news={articles} />
+      <Footer />
+    </>
   );
 }
 
