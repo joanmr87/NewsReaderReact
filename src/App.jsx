@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import "../src/styles/App.css";
 import newsData from "../src/data/newsdata.json";
 
-import Home from "./pages/Home.jsx";
+//import Home from "./pages/Home.jsx";
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 import Search from "./components/Search.jsx";
