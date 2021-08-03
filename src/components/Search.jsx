@@ -4,7 +4,7 @@ import '../styles/Search.css';
 function Search (props) {
   return (
     <section className="main">
-    <h2 className="main__title">Todas las noticias en un solo lugar</h2>
+    <h2 className="main__title"></h2>
     <input type="text" className="input" placeholder="Buscar..."/>
   </section>
   );
