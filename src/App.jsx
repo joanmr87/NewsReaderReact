@@ -1,6 +1,9 @@
+import React, { useState } from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import "../src/styles/App.css";
+import styles from "../src/styles/App.module.css";
 import newsData from "../src/data/newsdata.json";
+import classnames from 'classnames';
+import themes from '../src/themes/Theme.module.css';
 
 //import Home from "./pages/Home.jsx";
 import Header from "./components/Header.jsx";
@@ -10,13 +13,17 @@ import Categories from "./components/Categories.jsx";
 import Carousel from "./components/Carousel";
 import CarouselItem from "./components/CarouselItem";
 
+
 function App() {
   const { articles } = newsData;
+  const [theme, setTheme] = useState(themes.DarkB);
+
   //console.log(articles);
+  
   return (
-    <>
+    <div className={classnames(styles.App, theme)}>      
       <Header />
-      <Search />
+      <Search theme={theme}/>
       <Router>
         <Categories title="Ultimas Noticias">
           <Carousel>
@@ -39,7 +46,7 @@ function App() {
             <CarouselItem news={articles[12]} />
             <CarouselItem news={articles[13]} />
             <CarouselItem news={articles[14]} />
-            <CarouselItem news={articles[15]} />
+            <CarouselItem news={articles[12]} />
             <CarouselItem news={articles[16]} />
             <CarouselItem news={articles[17]} />
           </Carousel>
@@ -59,8 +66,12 @@ function App() {
         </Categories>
       </Router>
       <Footer />
-    </>
+    </div>
   );
 }
 
 export default App;
+
+/*
+
+*/

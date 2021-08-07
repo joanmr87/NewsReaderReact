@@ -1,8 +1,13 @@
 import React from "react";
 import "../styles/Home.css";
 
+import Categories from "./components/Categories.jsx";
+import Carousel from "./components/Carousel";
+import CarouselItem from "./components/CarouselItem";
+
 
 function Home (props) {
+  const { articles } = props.news;
   return (
     <>
     <Categories title="Ultimas Noticias">
