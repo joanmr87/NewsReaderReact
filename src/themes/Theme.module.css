@@ -7,25 +7,31 @@
 
 :root {
     /* Theme Dark A*/
-    --dark-a1: #082032;
-    --dark-a2: #2c394b;
-    --dark-a3: #334756;
-    --dark-a4: #ff4c29;
+    --dark-a1: #21094E;
+    --dark-a2: #511281;
+    --dark-a3: #4CA1A3;
+    --dark-a4: #A5E1AD;
   
     /* Dark B (https://colorhunt.co/palette/222831393e46ffd369eeeeee) */
-    --dark-b1: #222831;
-    --dark-b2: #393e46;
-    --dark-b3: #ffd369;
-    --dark-b4: #eeeeee;
+    --dark-b1: #61B15A;
+    --dark-b2: #ADCE74;
+    --dark-b3: #FFCE89;
+    --dark-b4: #FFF76A;
   }
   
-  .DarkA {
-    --theme-color: var(--dark-a4);
-    --theme-bgcolor: var(--dark-a1);
+  .Brown {
+    --theme-bgHeader: var(--dark-a1);
+    --theme-bgSearch: var(--dark-a2);
+    --theme-bgApp: var(--dark-a4);
+    --theme-bgCategories: var(--dark-a3);
+    --theme-bgFooter: var(--dark-a1);
   }
   
-  .DarkB {
-    --theme-color: var(--dark-b2);
-    --theme-bgcolor: var(--dark-b3);
+  .Summer {
+    --theme-bgHeader: var(--dark-b1);
+    --theme-bgSearch: var(--dark-b2);
+    --theme-bgApp: var(--dark-b4);
+    --theme-bgCategories: var(--dark-b3);
+    --theme-bgFooter: var(--dark-b1);
   }
   

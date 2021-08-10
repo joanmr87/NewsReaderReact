@@ -1,6 +1,7 @@
 .header {
     align-items: center;
-    background: #5a189a;
+    background: var(--theme-bgHeader);
+    transition: background-color 1s;
     color: white;
     display: flex;
     height: 100px;
@@ -45,13 +46,13 @@
     text-decoration: underline;
   }
   
-  .header__menu--profile {
+  .header__menu_profile {
     align-items: center;
     display: flex;
     cursor: pointer;
   }
   
-  .header__menu--profile img {
+  .header__menu_profile img {
     margin-right: 8px;
     width: 40px;
   }

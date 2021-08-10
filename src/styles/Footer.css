@@ -1,6 +1,7 @@
 .footer {
     align-items: center;
-    background-color: #5a189a;
+    background-color: var(--theme-bgFooter);
+    transition: background-color 1s;
     display: flex;
     height: 100px;
     width: 100%;

@@ -1,14 +1,28 @@
-import React from 'react';
-import '../styles/Search.css';
+import React from "react";
+import "../styles/Search.css";
+import themes from "../themes/Theme.module.css";
 
-function Search (props) {
+const { Brown, Summer } = themes;
+
+function Search(props) {
   return (
     <section className="main">
-    <h2 className="main__title"></h2>
-    <button type="button" class="btn btn-outline-dark">Dark</button>
-    <input type="text" className="input" placeholder="Buscar..."/>
-    
-  </section>
+      <button
+        onClick={() => {
+          if (props.theme === Summer) {
+            props.setTheme(Brown);
+          } else {
+            props.setTheme(Summer);
+          }
+        }}
+        type="button"
+        class="btn btn-outline-dark"
+      >
+        Change theme
+      </button>
+
+      <input type="text" className="input" placeholder="Buscar..." />
+    </section>
   );
 }
 

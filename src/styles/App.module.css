@@ -1,4 +1,5 @@
 .App {
-  color: var( --theme-color);
-  background-color: var(--theme-bgcolor);
+  color: var( --theme-bgSApp);
+  background-color: var( --theme-bgSApp);
+  transition: background-color 1s;
 }

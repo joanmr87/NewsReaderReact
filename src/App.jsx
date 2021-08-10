@@ -16,14 +16,14 @@ import CarouselItem from "./components/CarouselItem";
 
 function App() {
   const { articles } = newsData;
-  const [theme, setTheme] = useState(themes.DarkB);
+  const [theme, setTheme] = useState(themes.Brown);
 
   //console.log(articles);
   
   return (
     <div className={classnames(styles.App, theme)}>      
       <Header />
-      <Search theme={theme}/>
+      <Search theme={theme} setTheme={setTheme}/>
       <Router>
         <Categories title="Ultimas Noticias">
           <Carousel>

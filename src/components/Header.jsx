@@ -1,14 +1,15 @@
 import React from 'react';
-import '../styles/Header.css';
+import styles from '../styles/Header.module.css';
+import classnames from 'classnames';
 
 import logo from '../data/images/logo1.png';
 import userIcon from '../data/images/user-icon.png';
 
 const Header = () => (
-    <header className="header">
-        <img className="header__img" src={logo} alt="Platzi Video"/>
-            <div className="header__menu">
-                <div className="header__menu--profile">
+    <header className={classnames(styles.header)}>
+        <img className={classnames(styles.header__img)} src={logo} alt="Platzi Video"/>
+            <div className={classnames(styles.header__menu)}>
+                <div className={classnames(styles.header__menu_profile)}>
                     <img src={ userIcon } alt=""/>
                         <p>Perfil</p>
             </div>

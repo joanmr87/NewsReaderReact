@@ -1,5 +1,6 @@
 .main {
-    background-color: #7b2cbf;
+    background-color: var( --theme-bgSearch);
+    transition: background-color 1s;
     display: flex;
     align-items: center;
     justify-content: center;

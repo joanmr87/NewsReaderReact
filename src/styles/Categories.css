@@ -1,5 +1,6 @@
 .categories__title {
-    background: #7b2cbf;
+    background:  var( --theme-bgCategories);
+    transition: background-color 1s;
     color: white;
     font-size: 16px;
     margin-top: -16px;
