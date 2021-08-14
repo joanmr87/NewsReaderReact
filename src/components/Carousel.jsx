@@ -1,18 +1,19 @@
-import React from 'react';
-import '../styles/Carousel.css';
+import React, { useContext } from "react";
+import { DataContext } from "../context/ContextGeneral";
+import "../styles/Carousel.css";
+import CarouselItem from "./CarouselItem";
 
-function Carousel ({ children }, props) {
-    //const { news } = props;
-    //console.log(news);
-    return (
+function Carousel() {
+  const { articles } = useContext(DataContext);
+  return (
     <section className="carousel">
-        <div className="carousel__container">
-            {children}
-        </div>
+      <div className="carousel__container">
+        {articles.map((elemento) => {
+          return <CarouselItem article={elemento} />;
+        })}
+      </div>
     </section>
-    )
+  );
 }
 
 export default Carousel;
-
-

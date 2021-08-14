@@ -18,7 +18,7 @@ function Search(props) {
         type="button"
         class="btn btn-outline-dark"
       >
-        Change theme
+        Change Theme
       </button>
 
       <input type="text" className="input" placeholder="Buscar..." />

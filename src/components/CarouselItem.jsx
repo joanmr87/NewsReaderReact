@@ -1,10 +1,12 @@
 import React from 'react';
+
 import '../styles/CarouselItem.css';
 
 
 function CarouselItem (props) {
-     const { news } = props;
-     //console.log(news);
+     const { news } = props.elemento;
+     
+     
      return (
     <div className="carousel-item">
     <img className="carousel-item__img" src={news.urlToImage} alt=""  />
