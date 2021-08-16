@@ -8,8 +8,11 @@ function Carousel() {
   return (
     <section className="carousel">
       <div className="carousel__container">
-        {articles.map((elemento) => {
-          return <CarouselItem article={elemento} />;
+        {articles.map((elemento) => {          
+          const news = {elemento}
+          //console.log(news);
+          return <CarouselItem article={news} />
+          
         })}
       </div>
     </section>
