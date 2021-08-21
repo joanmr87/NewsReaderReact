@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import styles from "../src/styles/App.module.css";
 import classnames from "classnames";
@@ -11,31 +11,44 @@ import Search from "./components/Search.jsx";
 import Categories from "./components/Categories.jsx";
 import Carousel from "./components/Carousel";
 import CarouselItem from "./components/CarouselItem";
-import DataContext from "./context/ContextGeneral";
+import { GeneralContext } from "./context/ContextGeneral";
+import { TechContext } from "./context/TechContext";
+import { SportsContext } from "./context/ContextGeneral";
+
 
 function App() {
   const [theme, setTheme] = useState(themes.Brown);
+  const [cargarNoticias, setCargarNoticias] = useState(false);
 
   //console.log(articles);
 
   return (
     <div className={classnames(styles.App, theme)}>
-      <DataContext>
-        <Header />
-        <Search theme={theme} setTheme={setTheme} />
-        <Router>
-          <Categories title="Ultimas Noticias">
-            <Carousel />
-          </Categories>
-          <Categories title="Economia">
-            <Carousel />
-          </Categories>
-          <Categories title="Politica">
-            <Carousel />
-          </Categories>
-        </Router>
-        <Footer />
-      </DataContext>
+      <Header />
+      <Search
+        theme={theme}
+        setTheme={setTheme}
+        cargarNoticias={cargarNoticias}
+        setCargarNoticias={setCargarNoticias}
+      />
+      <GeneralContext>
+        <Categories title="General">
+          <Carousel />
+        </Categories>
+        </GeneralContext>
+      
+      <TechContext>
+        <Categories title="Tecnologia">
+          <Carousel />
+        </Categories>
+        </TechContext>
+     
+      <SportsContext>
+        <Categories title="Deportes">
+          <Carousel />
+        </Categories>
+        </SportsContext>
+      <Footer />
     </div>
   );
 }

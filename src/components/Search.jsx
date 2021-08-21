@@ -7,6 +7,8 @@ const { Brown, Summer } = themes;
 function Search(props) {
   return (
     <section className="main">
+      <span>
+
       <button
         onClick={() => {
           if (props.theme === Summer) {
@@ -16,12 +18,22 @@ function Search(props) {
           }
         }}
         type="button"
-        class="btn btn-outline-dark"
+        
       >
         Change Theme
       </button>
 
+      <button
+        onClick={() => {
+         
+        }}
+        type="button"        
+      >
+        Cargar Noticias
+      </button>
+
       <input type="text" className="input" placeholder="Buscar..." />
+      </span>
     </section>
   );
 }
