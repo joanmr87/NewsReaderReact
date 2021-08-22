@@ -19,6 +19,37 @@ import { SportsContext } from "./context/ContextGeneral";
 function App() {
   const [theme, setTheme] = useState(themes.Brown);
   const [cargarNoticias, setCargarNoticias] = useState(false);
+  const [articlesGeneral, setArticlesGeneral] = useState([]);
+  const [articlesTech, setArticlesTech] = useState([]);
+  const [articlesSports, setArticlesSports] = useState([]);
+
+  const urlGeneral =
+    "https://newsapi.org/v2/top-headlines?country=ar&category=general&apiKey=f849d4721dfc4523a60c3730b7d544af";
+  const urlTech =
+    "https://newsapi.org/v2/top-headlines?country=ar&category=technology&apiKey=f849d4721dfc4523a60c3730b7d544af";
+  const urlSports =
+    "https://newsapi.org/v2/top-headlines?country=ar&category=sports&apiKey=f849d4721dfc4523a60c3730b7d544af";
+
+  async function getNews(url,set) {
+    fetch(url)
+      .then((res) => res.json())
+      .then((data) => set(data.articles))
+      .catch((err) => {
+        console.log(err);
+      });
+  }
+
+  useEffect(() => {
+    getNews(urlGeneral, setArticlesGeneral);
+  }, []);
+
+  useEffect(() => {
+    getNews(urlTech, setArticlesTech);
+  }, []);
+
+  useEffect(() => {
+    getNews(urlSports, setArticlesSports);
+  }, []);
 
   //console.log(articles);
 
@@ -31,23 +62,24 @@ function App() {
         cargarNoticias={cargarNoticias}
         setCargarNoticias={setCargarNoticias}
       />
-      <GeneralContext>
-        <Categories title="General">
-          <Carousel />
-        </Categories>
-        </GeneralContext>
       
-      <TechContext>
+        <Categories title="General">
+          <Carousel articles= {articlesGeneral} setArticles={setArticlesGeneral}/>
+        </Categories>
+        
+       
+      
+      
         <Categories title="Tecnologia">
-          <Carousel />
+          <Carousel articles= {articlesTech} setArticles={setArticlesTech}/>
         </Categories>
-        </TechContext>
+        
      
-      <SportsContext>
+    
         <Categories title="Deportes">
-          <Carousel />
-        </Categories>
-        </SportsContext>
+          <Carousel articles={articlesSports} setArticles={setArticlesSports}/>
+        </Categories >
+       
       <Footer />
     </div>
   );

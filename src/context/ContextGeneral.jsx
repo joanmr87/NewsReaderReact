@@ -7,8 +7,8 @@ export const SportsContext = React.createContext();
 
 const ContextGeneral = (props) => {
   const [articles, setArticles] = useState([]);
-  //const [articlesTech, setArticlesTech] = useState([]);
-  //const [articlesSports, setArticlesSports] = useState([]);
+  const [articlesTech, setArticlesTech] = useState([]);
+  const [articlesSports, setArticlesSports] = useState([]);
 
   const urlGeneral =
     "https://newsapi.org/v2/top-headlines?country=ar&category=general&apiKey=f849d4721dfc4523a60c3730b7d544af";

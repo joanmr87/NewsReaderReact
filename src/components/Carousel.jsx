@@ -1,13 +1,11 @@
-import React, { useContext } from "react";
-import { articlesGeneral, articlesSports, articlesTech } from "../context/ContextGeneral";
+import React from "react";
 import "../styles/Carousel.css";
 import CarouselItem from "./CarouselItem";
 
-function Carousel() {
-  //const { articles } = useContext(articlesGeneral);
-  const { articles } = useContext(articlesTech);
-  //const { articles } = useContext(articlesSports);
-  //const articles = [];
+function Carousel(props) {
+  
+  const articles = props.articles;
+
   return (
     <section className="carousel">
       <div className="carousel__container">
