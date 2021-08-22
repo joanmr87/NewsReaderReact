@@ -10,10 +10,12 @@ function CarouselItem(props) {
   return (
     <div className="carousel-item">
       <a
+        
         onClick={() => {
           console.log("clickkkk");
         }}
         href={news.url}
+        target="blank"
       >
         <img className="carousel-item__img" src={news.urlToImage} alt="" />
         <div className="carousel-item__details">
