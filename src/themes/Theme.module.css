@@ -7,16 +7,16 @@
 
 :root {
     /* Theme Dark A*/
-    --dark-a1: #21094E;
-    --dark-a2: #511281;
-    --dark-a3: #4CA1A3;
-    --dark-a4: #A5E1AD;
+    --dark-a1: linear-gradient(to left, #1a0235, #400781);
+    --dark-a2: #280450;
+    --dark-a3: linear-gradient(to left, #1a0235, #400781);
+    --dark-a4: #3e087b4b;
   
     /* Dark B (https://colorhunt.co/palette/222831393e46ffd369eeeeee) */
-    --dark-b1: #61B15A;
-    --dark-b2: #ADCE74;
-    --dark-b3: #FFCE89;
-    --dark-b4: #FFF76A;
+    --dark-b1: linear-gradient(to left, #ff512f, #f09819);
+    --dark-b2: #ff522f;
+    --dark-b3: #f09819;
+    --dark-b4: #f0961954;
   }
   
   .Brown {
@@ -25,6 +25,7 @@
     --theme-bgApp: var(--dark-a4);
     --theme-bgCategories: var(--dark-a3);
     --theme-bgFooter: var(--dark-a1);
+    --theme-bgCarousel: var(--dark-a4);
   }
   
   .Summer {
@@ -33,5 +34,6 @@
     --theme-bgApp: var(--dark-b4);
     --theme-bgCategories: var(--dark-b3);
     --theme-bgFooter: var(--dark-b1);
+    --theme-bgCarousel: var(--dark-b4);
   }
   

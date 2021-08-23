@@ -3,6 +3,8 @@
     padding-left: 30px;
     width: 100%;
     position: relative;
+    background-color: var(--theme-bgCarousel);
+    
   }
   
   .carousel__container {
@@ -13,6 +15,7 @@
     white-space: nowrap;
     margin: 70px 0px;
     padding-bottom: 10px;
+    
   }
   
   .carousel__container:hover .carousel-item {

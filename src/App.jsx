@@ -1,19 +1,18 @@
 import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+
 import styles from "../src/styles/App.module.css";
 import classnames from "classnames";
 import themes from "../src/themes/Theme.module.css";
 
-//import Home from "./pages/Home.jsx";
+
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 import Search from "./components/Search.jsx";
 import Categories from "./components/Categories.jsx";
 import Carousel from "./components/Carousel";
-import CarouselItem from "./components/CarouselItem";
-import { GeneralContext } from "./context/ContextGeneral";
-import { TechContext } from "./context/TechContext";
-import { SportsContext } from "./context/ContextGeneral";
+//import RadioButtons from "./components/RadioButtons";
+
+
 
 
 function App() {
@@ -51,30 +50,24 @@ function App() {
     getNews(urlSports, setArticlesSports);
   }, []);
 
-  //console.log(articles);
+  
 
   return (
     <div className={classnames(styles.App, theme)}>
-      <Header />
-      <Search
+      <Header
         theme={theme}
         setTheme={setTheme}
         cargarNoticias={cargarNoticias}
-        setCargarNoticias={setCargarNoticias}
-      />
+        setCargarNoticias={setCargarNoticias}/>
+      <Search/>
       
         <Categories title="General">
           <Carousel articles= {articlesGeneral} setArticles={setArticlesGeneral}/>
         </Categories>
-        
-       
-      
-      
+             
         <Categories title="Tecnologia">
           <Carousel articles= {articlesTech} setArticles={setArticlesTech}/>
-        </Categories>
-        
-     
+        </Categories>     
     
         <Categories title="Deportes">
           <Carousel articles={articlesSports} setArticles={setArticlesSports}/>
