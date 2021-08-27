@@ -7,7 +7,7 @@
 
 :root {
     /* Theme Dark A*/
-    --dark-a1: linear-gradient(to left, #1a0235, #400781);
+    --dark-a1: linear-gradient(to left, #1a0235, #400781e3);
     --dark-a2: #280450;
     --dark-a3: linear-gradient(to left, #1a0235, #400781);
     --dark-a4: #3e087b4b;

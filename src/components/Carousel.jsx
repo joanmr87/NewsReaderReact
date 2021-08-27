@@ -17,8 +17,9 @@ function Carousel(props) {
               return <CarouselItem article={news} />;
             })}
           </>
-        )}
-        {articles.lenght === 0 &&           
+        )}        
+        {//ACA FALTA EL ELSE
+        articles.lenght === 0 &&           
             <h3>No hay resultados</h3>          
         }
       </div>

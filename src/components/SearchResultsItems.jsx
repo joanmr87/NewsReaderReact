@@ -1,14 +1,12 @@
-import React from "react";
-//import { DataContext } from "../context/ContextGeneral";
-
+import React from 'react'
 import "../styles/CarouselItem.css";
 
-function CarouselItem(props) {
-  const news = props.article.elemento;
-  //console.log(news)
+const SearchResultsItems = (props) => {
 
-  return (
-    <div className="carousel-item">
+    const news = props.article.elemento;
+    
+    return (
+        <div className="carousel-item">
       <a
         
         onClick={() => {
@@ -16,7 +14,6 @@ function CarouselItem(props) {
         }}
         href={news.url}
         target="blank"
-        key={news.id}
       >
         <img className="carousel-item__img" src={news.urlToImage} alt="" />
         <div className="carousel-item__details">
@@ -25,7 +22,7 @@ function CarouselItem(props) {
         </div>
       </a>
     </div>
-  );
+    )
 }
 
-export default CarouselItem;
+export default SearchResultsItems
